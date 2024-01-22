@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#colorBox {
+    width: 200px;
+    height: 200px;
+    background-color: red; /* Initial color */
+}
+button {
+    margin: 0 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+#redBtn{
+    background-color: red;
+}
+#GreenBtn{
+    background-color: green;
+}
+#blueBtn{
+    background-color: blue;
+}
+#aquaBtn{
+    background-color: aqua;
+}
+#blackBtn{
+    background-color: #ffffff;
+}
+#yellowBtn{
+    background-color: yellow;
+}
